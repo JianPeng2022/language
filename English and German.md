@@ -11,4 +11,6 @@ You need to fill out a registration form to complete the check-in procedure. Sie
 
 guarantee/Garantie, complimentary/kostenlos, to assist/helfen, reception/Rezeption, housekeeping/Raumpflegepersonal, concierge/Portier 门房, airport transfer/Flughafentransfer, room service/Zimmerservice, request/anfordern
 
-an estimate/ein Kostenvoranschlag, the scope of the project/der Projektumfang, a deliverable/ein Arbeitsergebnis/liferbar, to submit something/ etwas einreichen
+an estimate/ein Kostenvoranschlag, the scope of the project/der Projektumfang, a deliverable/ein Arbeitsergebnis/liferbar, to submit something/ etwas einreichen, to get approval/eine Genehmigung bekommen, to outsource/auslagern
+
+I'm planning to submit it next week. Maybe some of my estimates are a little high. Well I think some of the things in here are outside the scope of the project. Just focus on the important deliverables, don't worry about adding extras. It would be hard to get editing approval for images and music. We have to keep the cost baseline low/ wir werden die geplanten Kosten gering halten müssen. I 
