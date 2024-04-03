@@ -26,4 +26,6 @@ The timeframe is unrealistic/unrealistisch. The new app was rolled out yesterday
 ### 02 
 Brochure/Broschüre, region/Region, accommodation/Unterkunft, terms and conditions/AGB Allgemeine Geschäftsbedingungen, travel documents/Reiseunterlagen, cancellation/Stornierung, deposit/Anzahlung 押金/订金, trails/Wanderwege 路径, difficulty level/Schwierigkeitsgrad, suitable/geeignet, to orient/orientieren, to signpost/beschildern
 
-What difficulty level are the trails?/Welche Schwierigkeitsgrad haben die Wanderwege?
+What difficulty level are the trails?/Welche Schwierigkeitsgrad haben die Wanderwege? The easy trails are also suitable for children./die leichten Wanderwege sind auch for Kinder geeignet. These hiking maps can help you orient yourself.
+
+to take advantage of/in Anspruch nehmen, rental/Verleih, guarantee/Garantie, helmet/Helm, Campsite/CampingPlatz, Would you like to take advantage of our bike rental service/Möchten Sie unseren Fahrradverleih in anspruch nehmen?, admission/Eintritt, exhibition/Ausstellung, gallery/Galerie, The state gallery is well worth to visit.
