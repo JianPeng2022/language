@@ -24,5 +24,6 @@ to stay on schedule/den Zeitplan einhalten, to roll out/auf den Market bringen �
 The timeframe is unrealistic/unrealistisch. The new app was rolled out yesterday./Die neue App wurde gestern auf dem Market gebracht. 
 
 ### 02 
-Brochure/Broschüre, region/Region, accommodation/Unterkunft, terms and conditions/AGB Allgemeine Geschäftsbedingungen, travel documents/Reiseunterlagen, cancellation/Stornierung, deposit/Anzahlung 押金/订金
+Brochure/Broschüre, region/Region, accommodation/Unterkunft, terms and conditions/AGB Allgemeine Geschäftsbedingungen, travel documents/Reiseunterlagen, cancellation/Stornierung, deposit/Anzahlung 押金/订金, trails/Wanderwege 路径, difficulty level/Schwierigkeitsgrad, suitable/geeignet, to orient/orientieren, to signpost/beschildern
 
+What difficulty level are the trails?/Welche Schwierigkeitsgrad haben die Wanderwege?
