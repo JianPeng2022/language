@@ -13,7 +13,15 @@ guarantee/Garantie, complimentary/kostenlos, to assist/helfen, reception/Rezepti
 
 an estimate/ein Kostenvoranschlag, the scope of the project/der Projektumfang, a deliverable/ein Arbeitsergebnis/liferbar, to submit something/ etwas einreichen, to get approval/eine Genehmigung bekommen, to outsource/auslagern
 
-I'm planning to submit it next week. Maybe some of my estimates are a little high. Well I think some of the things in here are outside the scope of the project. Just focus on the important deliverables, don't worry about adding extras. It would be hard to get editing approval for images and music. We have to keep the cost baseline low/ wir werden die geplanten Kosten gering halten müssen. We could try to do some of the writing and editing in-house, that should help./wir können versuchen, das Schreiben und Bearbeiten teilweise betriebsintern zu machen, das sollte helfen. Do you think that feasible?/Denkst du, das ist machbar? Well we already have audio-visual equipment, so we could allocate tasks to those who have the most experience using it. /Naja, wir haben bereits Ton- und Videogeräte, also könnten wir denjenigen Aufgaben zuteilen, die die meiste Erfahrung damit haben. 
+I'm planning to submit it next week. Maybe some of my estimates are a little high. Well I think some of the things in here are outside the scope of the project. Just focus on the important deliverables, don't worry about adding extras. It would be hard to get editing approval for images and music. We have to keep the cost baseline low/ wir werden die geplanten Kosten gering halten müssen. We could try to do some of the writing and editing in-house, that should help./wir können versuchen, das Schreiben und Bearbeiten teilweise betriebsintern zu machen, das sollte helfen. Do you think that feasible?/Denkst du, das ist machbar? Well, we already have audio-visual equipment, so we could allocate tasks to those who have the most experience using it. /Naja, wir haben bereits Ton- und Videogeräte, also könnten wir denjenigen Aufgaben zuteilen, die die meiste Erfahrung damit haben. 
 
 timeframe/Zeitrahmen, to reach a milestone/einen Meilenstein erreichen, kick-off meeting/Auftaktbesprechung, design phase/Entwurfsphase
+
+Make sure you know your timeframe before presenting your project./Vergewissen dich, dass du den Zeitrahmen kennst, bevor du dein Projekt vorstellst. I need to finish the design phase before updating the client./Ich muss die Entwurfphase beenden, bevor ich den Kunden auf den neuesten Stand bringe.
+
+to stay on schedule/den Zeitplan einhalten, to roll out/auf den Market bringen 推出/上市, to get off track/abweichen/vom Gleis abkommen 偏离轨道/跑偏, target date/Zieldatum, buffer/Puffer 缓冲
+
+The timeframe is unrealistic/unrealistisch. The new app was rolled out yesterday./Die neue App wurde gestern auf dem Market gebracht. 
+
+
 
