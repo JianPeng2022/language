@@ -28,4 +28,9 @@ Brochure/Broschüre, region/Region, accommodation/Unterkunft, terms and conditio
 
 What difficulty level are the trails?/Welche Schwierigkeitsgrad haben die Wanderwege? The easy trails are also suitable for children./die leichten Wanderwege sind auch for Kinder geeignet. These hiking maps can help you orient yourself.
 
-to take advantage of/in Anspruch nehmen, rental/Verleih, guarantee/Garantie, helmet/Helm, Campsite/CampingPlatz, Would you like to take advantage of our bike rental service/Möchten Sie unseren Fahrradverleih in anspruch nehmen?, admission/Eintritt, exhibition/Ausstellung, gallery/Galerie, The state gallery is well worth to visit.
+to take advantage of/in Anspruch nehmen, rental/Verleih, guarantee/Garantie, helmet/Helm, Campsite/CampingPlatz, Would you like to take advantage of our bike rental service/Möchten Sie unseren Fahrradverleih in anspruch nehmen?, admission/Eintritt, exhibition/Ausstellung, gallery/Galerie, The state gallery is well worth to visit./Die Staatsgalerie ist auf jeden Fall einen Besuch wert.
+
+to highlight/hervorheben, around the corner/um die Ecke,specialty/Spezialität, to be invited/eingeladen sein, appropriate/passend, in regard to/hinsichtlich 关于, to be interested in something/an etwas interessiert sein, to appreciate/schätzen, to accept apologies/Entschuldigungen annehmen, an attachment/ein Anhang, a copy/eine Kopie, to Fwd/weiterleiten, to attach/anhängen, to return/zurückschicken, a file format/ein Format, an original document/ein Originaldokument, ASAP as soon as possible, FYI for your information, BCC blind carbon copy 是一种电子邮件发送选项，它允许您向邮件中添加收件人，但这些收件人的电子邮件地址不会被其他收件人看到, RE regarding, BTW by the way
+
+Please send the report ASAP - it's urgent/Bitte senden Sie den Bericht so bald wie möglich - es ist dringend, Damien spoke to me re the newsletter problem/Damien sprach mit mir wegen des Newsletter Problems.
+
