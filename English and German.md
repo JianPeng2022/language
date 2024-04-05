@@ -34,3 +34,5 @@ to highlight/hervorheben, around the corner/um die Ecke,specialty/Spezialität, 
 
 Please send the report ASAP - it's urgent/Bitte senden Sie den Bericht so bald wie möglich - es ist dringend, Damien spoke to me re the newsletter problem/Damien sprach mit mir wegen des Newsletter Problems.
 
+to configure/konfigurieren, to equip/ausstatten, fuse/Sicherung 保险丝 熔断器, switch/Schalter, safety switches/Sicherheitsschalter 安全开关, 
+machine control/Maschinensteuerung, battery box/Batteriekästen, to disconnect/trennen, to reinforce/verstärken, power supply/Stromversorgungseinheit, 
