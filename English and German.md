@@ -38,3 +38,5 @@ to configure/konfigurieren, to equip/ausstatten, fuse/Sicherung 保险丝 熔断
 machine control/Maschinensteuerung, battery box/Batteriekästen, to disconnect/trennen, to reinforce/verstärken, power supply/Stromversorgungseinheit
 
 The train is expected to arrive five minutes late./Der Zug wird voraussichtlich fünf Minute später eintreffen. Caution this train is not stopping/Vorsicht Zug fährt durch! Please take care while the train is approaching/Bitte Vorsicht bei der Einfahrt. 
+
+public transport/öffentliche Verkehrsmittel, undergroud/U-Bahn, platform/Bahnsteig, our trains has 2 units/Unser Zug besteht aus 2 Teilen. They will be separated in Bonn./Sie werden in Bonn getrennt. to catch/erwischen, time table/Fahrplan, inspector/Kontrolleur, reduction/Ermäßigung, croweded/voll, Do the  trains get very crowded at rush hour?/Werden die Züge zur Hauptverkehrszeit sehr voll? to change/umsteigen, 
