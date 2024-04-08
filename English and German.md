@@ -39,4 +39,8 @@ machine control/Maschinensteuerung, battery box/Batteriekästen, to disconnect/t
 
 The train is expected to arrive five minutes late./Der Zug wird voraussichtlich fünf Minute später eintreffen. Caution this train is not stopping/Vorsicht Zug fährt durch! Please take care while the train is approaching/Bitte Vorsicht bei der Einfahrt. 
 
-public transport/öffentliche Verkehrsmittel, undergroud/U-Bahn, platform/Bahnsteig, our trains has 2 units/Unser Zug besteht aus 2 Teilen. They will be separated in Bonn./Sie werden in Bonn getrennt. to catch/erwischen, time table/Fahrplan, inspector/Kontrolleur, reduction/Ermäßigung, croweded/voll, Do the  trains get very crowded at rush hour?/Werden die Züge zur Hauptverkehrszeit sehr voll? to change/umsteigen, 
+public transport/öffentliche Verkehrsmittel, undergroud/U-Bahn, platform/Bahnsteig, our trains has 2 units/Unser Zug besteht aus 2 Teilen. They will be separated in Bonn./Sie werden in Bonn getrennt. to catch/erwischen, time table/Fahrplan, inspector/Kontrolleur, reduction/Ermäßigung, croweded/voll, Do the  trains get very crowded at rush hour?/Werden die Züge zur Hauptverkehrszeit sehr voll? to change/umsteigen, to validate/entwerten
+
+have you already made a reservation?/haben Sie schon reserviert? How many nights will you be staying?/Wie viele Nächte werden Sie bleiben? room Service is available/Zimmerservice steht zur Verfügung. 
+
+extra charge/Aufpreis, voucher/Gutschein, I am sorry for the confusion/die Verwirrung, vacancy/freies Zimmer, amenities/Annehmlichkeiten 便利设施, travel arrangements/Reisevorbereitungen, airport shuttle/Flughafentransfer, local attraction/lokale Sehenswürdigkeiten, fresh towels/frische Handtücher, do not disturb sign/Bitte-nicht-stören-Schild, remote control/Fernbedienung, 
