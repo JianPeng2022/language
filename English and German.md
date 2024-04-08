@@ -46,4 +46,4 @@ have you already made a reservation?/haben Sie schon reserviert? How many nights
 extra charge/Aufpreis, voucher/Gutschein, I am sorry for the confusion/die Verwirrung, vacancy/freies Zimmer, amenities/Annehmlichkeiten 便利设施, travel arrangements/Reisevorbereitungen, airport shuttle/Flughafentransfer, local attraction/lokale Sehenswürdigkeiten, fresh towels/frische Handtücher, do not disturb sign/Bitte-nicht-stören-Schild, remote control/Fernbedienung
 
 ### 03
-I don't think he's fully aware of how much trouble he's in.
+I don't think he's fully aware of how much trouble he's in. his arguments were completely beside the points.
